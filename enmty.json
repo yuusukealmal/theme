@@ -1,0 +1,145 @@
+{
+    "name": "BlacknBlue",
+    "version": "1.0.1",
+    "description": "A Black theme with blue accents ",
+    "authors": [
+        {
+            "name": "侑介#3703",
+            "id": "878830839822176287"
+        }
+    ],
+    "theme_color_map": {
+        "KEYBOARD": [
+            "#101014",
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#646464",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#2368FB",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#dcddde",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#c9ced0",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#4f545c",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#101014",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#101014",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#161616",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#101014",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#6F9CFF",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#17161b",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#101014",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#17161b",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#17161b",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#262440",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#1E1C2D",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#151419",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#2368FB",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "transparent",
+            "#FFFFFF"
+        ],
+        "CHANNEL_ICON": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#4a4a52",
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#646464",
+            "#FFFFFF"
+        ]
+    },
+    "colours": {
+        "PRIMARY_DARK_600": "#17161b",
+        "PRIMARY_DARK_500": "#17161b",
+        "PRIMARY_DARK_630": "#101014",
+        "PRIMARY_DARK_800": "#101014",
+        "BRAND_NEW": "#2368FB",
+        "BRAND_NEW_360": "#07F985",
+        "WHITE": "#FFFFFF",
+        "STATUS_RED": "#FF1F4F",
+        "STATUS_GREEN_600": "#07F985"
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#101014"
+    },
+    "color": "#2368FB",
+    "background": {
+        "blur": 0.5,
+        "url": "https://cdn.discordapp.com/attachments/915813949495205928/1099325126488641567/unnamed.png",
+        "alpha": 1.0
+    }
+}
