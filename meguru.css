@@ -8,8 +8,6 @@
  * @invite dHaSxn3
  */
 
-/* Credits to Zerthox for making the original theme. */
-@import url(https://seele1306.github.io/BetterProfiles/import.css);
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
 @import url(https://clearvision.github.io/Addons/whitney.css);
@@ -36,19 +34,19 @@
   --code-font: Consolas, Liberation Mono, Menlo, Courier, monospace; /* font for codeblocks (font must be installed) [default: Consolas, Liberation Mono, Menlo, Courier, monospace] */
   --text-normal: rgb(220, 221, 222); /* color of default discord text */
   --text-muted: rgb(114, 118, 125); /* color of default discord muted text (e.g.text found in input fields before typing).*/
-  --channels-width: 230px; /* channel list width (240px for Discord default) [default: 220px] */
-  --members-width: 230px; /* member list width [default: 240px] */
+  --channels-width: 240px; /* channel list width (240px for Discord default) [default: 220px] */
+  --members-width: 250px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
-  --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+  --background-overlay: rgba(0, 0, 0, 0.7); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
   --background-image: url(https://raw.githubusercontent.com/yuusukealmal/theme/refs/heads/main/meguru.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-brightness: 130%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
-  --background-contrast: 100%; /* app background contrast [default: 100%] */
+  --background-brightness: 90%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+  --background-contrast: 140%; /* app background contrast [default: 100%] */
   --background-saturation: 100%; /* app background saturation [default: 100%] */
   --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
   --background-grayscale: 0%; /* app background grayscale ( 0 - 100%) [default: 0%] */
@@ -56,13 +54,13 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://ciallo.cc/favicon.ico); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
-  --home-size: 40px; /* home button icon size [default: 40px] */
+  --home-size: 50px; /* home button icon size [default: 40px] */
   
   /* CHANNEL COLORS */
   --channel-unread: var(--main-color); /* Unread Server channel color. [default:  var(--main-color)] THIS OVERRIDES YOUR MAIN COLOR*/
-  --channel-color: rgba(255, 255, 255, 0.3); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
+  --channel-color: rgba(255, 255, 255, 0.4); /*Read Server channel color  [default: rgba(255,255,255,0.3);]*/
   --channel-text-selected: #fff; /* Selected channel text color, CV default is #fff */
   --muted-color: rgba(255, 255, 255, 0.1); /*Muted channel color  [default: rgba(255,255,255,0.1);]*/
 
@@ -93,8 +91,8 @@
   --user-popout-invert: var(--background-invert); /* user popout background invert (0 - 100%) [default: var(--background-invert)] */
   --user-popout-grayscale: var(--background-grayscale); /* user popout background grayscale (0 - 100%) [default: var(--background-grayscale)] */
   --user-popout-sepia: var(--background-sepia); /* user popout background sepia (0 - 100%) [default: var(--background-sepia)] */
-  --user-popout-blur: calc(var(--background-blur) + 3px); /* user popout background blur [default: calc(var(--background-blur) + 3px)] */
-  --user-popout-overlay: rgba(0, 0, 0, 0.6); /* user popout overlay color [default: rgba(0, 0, 0, .6)] */
+  --user-popout-blur: calc(var(--background-blur) + 0.5px); /* user popout background blur [default: calc(var(--background-blur) + 3px)] */
+  --user-popout-overlay: rgba(0, 0, 0, 0.7); /* user popout overlay color [default: rgba(0, 0, 0, .6)] */
 
   /* USER MODAL BACKGROUND */
   --user-modal-image: var(--background-image); /* app background image (link must be HTTPS) [default: var(--background-image)] */
