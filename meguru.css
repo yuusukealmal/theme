@@ -13,17 +13,12 @@
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
 @import url(https://clearvision.github.io/Addons/whitney.css);
-@import url("https://minidiscordthemes.github.io/MinimalAddonCards/MinimalAddonCards.theme.css");
-@import url("https://minidiscordthemes.github.io/Snippets/RoleTint/RoleTint.css");
-@import url("https://raw.githubusercontent.com/69you/dc-thene/master/cat.css");
-@import url("https://raw.githubusercontent.com/69you/dc-thene/master/stuff.css");
-/* @import url(https://seele1306.github.io/Snippets/BetterProfiles/import.css); */
 
 /* SETTINGS */
 :root {
   --section-thickness: 2px; /* must be in pixels */
   /* ACCENT COLORS */
-  --main-color: #be427d; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --main-color: #eb907d; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
   --hover-color: #2163ad; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
   --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
@@ -47,7 +42,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://cdn.discordapp.com/attachments/1121756362804842526/1126494869368623154/asuka2.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://github.com/yuusukealmal/theme/blob/main/meguru.png?raw=true); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
